@@ -45,26 +45,21 @@ Through webscraping both ASOS and H&amp;M clothing retailers I have completed a 
 </div></div></div>
 
 
-<p float="middle">
+<p left="middle">
   <img src="screenShots/asosJogger.png" width="400" />
-  <img src="screenShots/asosJogger.png" width="400" />  
+  <img src="screenShots/hmJogger.png" width="400" />  
 </p>
 
+<p left="middle">
+  <img src="screenShots/asosTrouser.png" width="400" />
+  <img src="screenShots/hmTrouser.png" width="400" />  
+</p>
 
-
-
-********************************************************
-
-<figure class="half" style="display:flex">
-    <img style="width:300" src="screenShots/asosJogger.png"/><img style="width:300" src="screenShots/hmJogger.png"/>
-    <figcaption>Caption describing these two images.</figcaption>
-</figure>
-
-
-<section>
-    <img width="300" src="screenShots/asosJogger.png/><img width="300" src="screenShots/hmJogger.png"/>
-</section>
-                                                   
+<p left="middle">
+  <img src="screenShots/asosLoafer.png" width="400" />
+  <img src="screenShots/hmLoafer.png" width="400" />  
+</p>
+                             
 
 <p align="center"><img src="screenShots/asosJogger.png" /></p>
 <p align="center"><img src="screenShots/hmJogger.png" /></p>

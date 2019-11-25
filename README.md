@@ -48,8 +48,8 @@ Through webscraping both ASOS and H&amp;M clothing retailers I have completed a 
 
 
 <figure class="half" style="display:flex">
-    <img style="width:400px" src="screenShots/asosJogger.png">
-    <img style="width:600px" src="screenShots/hmJogger.png">
+    <img style="width:300px" src="screenShots/asosJogger.png">
+    <img style="width:300px" src="screenShots/hmJogger.png">
     <figcaption>Caption describing these two images.</figcaption>
 </figure>
 

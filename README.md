@@ -1,7 +1,7 @@
 # ASOS Product and Price Comparison to H&M
 Through webscraping both ASOS and H&amp;M clothing retailers, I have completed a Product and Price comparison tool.
 
-The tool web scrapes a small subsection of each respective website containing over **11,000 products** and conducts a price and product comparison. This is completed through the application of fuzzy logic. Below, is a small sample of the output data. You can see screenshots of the relevant website below that showing how closely comparisons have been.
+The tool web scrapes a small subsection of each respective website containing over **11,000 products** and conducts a **price and product comparison**. This is completed through the application of **fuzzy logic**. Below, is a small sample of the output data. You can see screenshots of the relevant website below that showing how closely comparisons have been.
 
 
 <div class="row"><div class="col-md-12"><div class="panel panel-success"><div class="panel-heading "><h3 class="panel-title">ASOS product comparison to H&M </h3></div>

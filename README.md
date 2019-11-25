@@ -49,8 +49,8 @@ Through webscraping both ASOS and H&amp;M clothing retailers I have completed a 
 
 
 <section>
-    <img width="100" src="screenShots/asosJogger.png/>
-    <img width="100" src="screenShots/hmJogger.png"/>
+    <img width="300" src="screenShots/asosJogger.png/>
+    <img width="300" src="screenShots/hmJogger.png"/>
 </section>
                                                    
 

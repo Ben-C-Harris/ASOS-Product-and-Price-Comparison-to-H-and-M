@@ -45,9 +45,9 @@ Through webscraping both ASOS and H&amp;M clothing retailers I have completed a 
 </div></div></div>
 
 
-<p float="left">
-  <img src="screenShots/asosJogger.png" width="450" />
-  <img src="screenShots/asosJogger.png" width="450" />  
+<p float="center">
+  <img src="screenShots/asosJogger.png" width="400" />
+  <img src="screenShots/asosJogger.png" width="400" />  
 </p>
 
 

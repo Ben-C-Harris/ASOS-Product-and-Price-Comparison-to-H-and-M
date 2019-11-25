@@ -46,7 +46,7 @@ The tool web scrapes a small subsection of each respective website containing ov
 </div></div></div>
 
 
-<p left="middle">
+<p align="centre">
   <img src="screenShots/asosJogger.png" width="400" />
   <img src="screenShots/hmJogger.png" width="400" />  
 </p>

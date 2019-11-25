@@ -3,7 +3,7 @@ Through webscraping both ASOS and H&amp;M clothing retailers I have completed a 
 
 
 
-<div class="row"><div class="col-md-12"><div class="panel panel-success"><div class="panel-heading "><h3 class="panel-title">HTML Table Preview</h3></div>
+<div class="row"><div class="col-md-12"><div class="panel panel-success"><div class="panel-heading "><h3 class="panel-title">ASOS product comparison to H&M </h3></div>
 <table border=1 class="table table-striped table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">ASOS_Name</th>
 <th title="Field #2">ASOS_Price (£)</th>

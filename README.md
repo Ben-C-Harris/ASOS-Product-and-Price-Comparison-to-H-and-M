@@ -45,7 +45,16 @@ Through webscraping both ASOS and H&amp;M clothing retailers I have completed a 
 </div></div></div>
 
 
+<p float="left">
+  <img src="screenShots/asosJogger.png" width="100" />
+  <img src="screenShots/asosJogger.png" width="100" />
+  <img src="screenShots/asosJogger.png" width="100" />    
+</p>
 
+
+
+
+********************************************************
 
 <figure class="half" style="display:flex">
     <img style="width:300" src="screenShots/asosJogger.png"/><img style="width:300" src="screenShots/hmJogger.png"/>

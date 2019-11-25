@@ -43,3 +43,14 @@ Through webscraping both ASOS and H&amp;M clothing retailers I have completed a 
 </tr>
 </tbody></table>
 </div></div></div>
+
+
+
+<p align="center"><img src="screenShots/asosJogger.png" /></p>
+<p align="center"><img src="screenShots/hmJogger.png" /></p>
+
+<p align="center"><img src="screenShots/asosTrouser.png" /></p>
+<p align="center"><img src="screenShots/hmTrouser.png" /></p>
+
+<p align="center"><img src="screenShots/asosLoafer.png" /></p>
+<p align="center"><img src="screenShots/hmLoafer.png" /></p>

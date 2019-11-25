@@ -60,8 +60,7 @@ Through webscraping both ASOS and H&amp;M clothing retailers I have completed a 
 </section>
                                                    
 
-<p align="center"><img src="screenShots/asosJogger.png" /></p>
-<p align="center"><img src="screenShots/hmJogger.png" /></p>
+<p align="center"><img src="screenShots/asosJogger.png" /></p><p align="center"><img src="screenShots/hmJogger.png" /></p>
 
 <p align="center"><img src="screenShots/asosTrouser.png" /></p>
 <p align="center"><img src="screenShots/hmTrouser.png" /></p>
